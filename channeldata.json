@@ -1,0 +1,37 @@
+{
+  "channeldata_version": 1,
+  "packages": {
+    "openfoam13_for_pato": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "OpenFOAM 13 compiled for use with PATO",
+      "dev_url": null,
+      "doc_url": "https://openfoam.org",
+      "home": "https://openfoam.org",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "osx-arm64"
+      ],
+      "summary": "OpenFOAM 13 compiled for use with PATO",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1780941369030,
+      "version": "13_20250911"
+    }
+  },
+  "subdirs": [
+    "linux-64",
+    "noarch",
+    "osx-arm64"
+  ]
+}
